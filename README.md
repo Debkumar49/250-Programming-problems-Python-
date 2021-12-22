@@ -1,8 +1,8 @@
 # More than 250 Programming problems with solutions in Python3
 More than 250 Programming problems with solutions in Python3
 
-<h3>250+ C Programs for Practice PDF</h3>
-1.	Simple C Questions
+<h3>250+  Programs for Practice PDF</h3>
+1.	Simple  Questions
 <ul>
 <li>Area and Circumference of a Circle</li>
 <li>Print Ascii Value of the Character</li>
