@@ -1,3 +1,8 @@
 The Greatest Number Among the Given Three Number
 
 The Number Is Positive or Negative
+
+Character Is Vowel or Consonant
+The Number Is Even or Odd
+Greatest of Two Numbers
+Greatest Among Three Numbers
