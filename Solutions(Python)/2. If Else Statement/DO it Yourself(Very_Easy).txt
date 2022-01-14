@@ -6,3 +6,4 @@ Character Is Vowel or Consonant
 The Number Is Even or Odd
 Greatest of Two Numbers
 Greatest Among Three Numbers
+Input week number and print weekday
